@@ -1,3 +1,7 @@
 Strenght Through Struggle - Michael Choi
 
-I like Blue - Jay Patel
+<<<<<<< HEAD
+I like Yellow - Jay Patel
+=======
+Leeeeerooooyyyy Jeeeeeenkkiiiinss - Leeroy Jenkins
+>>>>>>> personal_quotes
